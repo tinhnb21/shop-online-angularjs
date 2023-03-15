@@ -12,3 +12,6 @@ D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\obj\Debug\OnlineShop.Data.csp
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\obj\Debug\OnlineShop.Data.csproj.CopyComplete
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\obj\Debug\OnlineShop.Data.dll
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\obj\Debug\OnlineShop.Data.pdb
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\bin\Debug\OnlineShop.Model.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\bin\Debug\OnlineShop.Model.pdb
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\bin\Debug\OnlineShop.Model.dll.config
