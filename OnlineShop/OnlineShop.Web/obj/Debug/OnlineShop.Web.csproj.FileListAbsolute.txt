@@ -60,3 +60,17 @@ D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\obj\Debug\OnlineShop.Web.cspro
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\obj\Debug\OnlineShop.Web.csproj.CopyComplete
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\obj\Debug\OnlineShop.Web.dll
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\obj\Debug\OnlineShop.Web.pdb
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\EntityFramework.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\EntityFramework.SqlServer.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\OnlineShop.Common.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\OnlineShop.Data.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\OnlineShop.Model.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\OnlineShop.Service.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\OnlineShop.Common.pdb
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\OnlineShop.Data.pdb
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\OnlineShop.Data.dll.config
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\OnlineShop.Model.pdb
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\OnlineShop.Model.dll.config
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\OnlineShop.Service.pdb
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\EntityFramework.xml
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\EntityFramework.SqlServer.xml

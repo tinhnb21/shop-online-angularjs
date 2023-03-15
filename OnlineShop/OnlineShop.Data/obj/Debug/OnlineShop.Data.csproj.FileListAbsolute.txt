@@ -1,0 +1,14 @@
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\bin\Debug\OnlineShop.Data.dll.config
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\bin\Debug\OnlineShop.Data.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\bin\Debug\OnlineShop.Data.pdb
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\bin\Debug\EntityFramework.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\bin\Debug\OnlineShop.Common.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\bin\Debug\OnlineShop.Common.pdb
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\bin\Debug\EntityFramework.xml
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\obj\Debug\OnlineShop.Data.csproj.AssemblyReference.cache
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\obj\Debug\OnlineShop.Data.csproj.CoreCompileInputs.cache
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\obj\Debug\OnlineShop.Data.csproj.CopyComplete
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\obj\Debug\OnlineShop.Data.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\obj\Debug\OnlineShop.Data.pdb
