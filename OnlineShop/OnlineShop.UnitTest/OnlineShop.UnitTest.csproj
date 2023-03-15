@@ -55,6 +55,28 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineShop.Common\OnlineShop.Common.csproj">
+      <Project>{c39586bc-3dca-4573-a52b-0c1beba93968}</Project>
+      <Name>OnlineShop.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OnlineShop.Data\OnlineShop.Data.csproj">
+      <Project>{c317b2b6-1815-4952-924e-42d66c0c0da6}</Project>
+      <Name>OnlineShop.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OnlineShop.Model\OnlineShop.Model.csproj">
+      <Project>{89fb93e2-a941-412d-a682-739047d42f6d}</Project>
+      <Name>OnlineShop.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OnlineShop.Service\OnlineShop.Service.csproj">
+      <Project>{7d810ad3-c42f-43d5-82e2-dcc67557a082}</Project>
+      <Name>OnlineShop.Service</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OnlineShop.Web\OnlineShop.Web.csproj">
+      <Project>{f0007df7-0ba7-475e-9956-df88945c1528}</Project>
+      <Name>OnlineShop.Web</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

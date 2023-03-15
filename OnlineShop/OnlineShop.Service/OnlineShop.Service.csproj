@@ -43,5 +43,19 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineShop.Common\OnlineShop.Common.csproj">
+      <Project>{c39586bc-3dca-4573-a52b-0c1beba93968}</Project>
+      <Name>OnlineShop.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OnlineShop.Data\OnlineShop.Data.csproj">
+      <Project>{c317b2b6-1815-4952-924e-42d66c0c0da6}</Project>
+      <Name>OnlineShop.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OnlineShop.Model\OnlineShop.Model.csproj">
+      <Project>{89fb93e2-a941-412d-a682-739047d42f6d}</Project>
+      <Name>OnlineShop.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
