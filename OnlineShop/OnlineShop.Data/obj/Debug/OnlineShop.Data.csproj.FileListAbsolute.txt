@@ -17,3 +17,4 @@ D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\bin\Debug\OnlineShop.Model.pd
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\bin\Debug\OnlineShop.Model.dll.config
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\obj\Debug\OnlineShop.Data.Migrations.InitialDatabase.resources
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\obj\Debug\OnlineShop.Data.csproj.GenerateResource.cache
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\obj\Debug\OnlineShop.Data.Migrations.AddErrorTable.resources
