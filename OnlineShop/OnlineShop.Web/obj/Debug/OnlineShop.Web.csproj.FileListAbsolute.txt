@@ -150,3 +150,14 @@ D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Web\obj\Debug\OnlineShop.W
 D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Web\obj\Debug\OnlineShop.Web.csproj.CopyComplete
 D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Web\obj\Debug\OnlineShop.Web.dll
 D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Web\obj\Debug\OnlineShop.Web.pdb
+D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Web\bin\Autofac.dll
+D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Web\bin\Autofac.Integration.Mvc.dll
+D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Web\bin\Autofac.Integration.WebApi.dll
+D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.Owin.dll
+D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Web\bin\Owin.dll
+D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Web\bin\Autofac.xml
+D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Web\bin\Autofac.Integration.Mvc.xml
+D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Web\bin\Autofac.Integration.WebApi.xml
+D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.Owin.xml
+D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
