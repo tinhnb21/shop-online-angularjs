@@ -161,3 +161,14 @@ D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Web\bin\Autofac.Integratio
 D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.Owin.xml
 D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
 D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Autofac.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Autofac.Integration.Mvc.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Autofac.Integration.WebApi.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.Owin.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Owin.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Autofac.xml
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Autofac.Integration.Mvc.xml
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Autofac.Integration.WebApi.xml
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.Owin.xml
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.Owin.Host.SystemWeb.xml

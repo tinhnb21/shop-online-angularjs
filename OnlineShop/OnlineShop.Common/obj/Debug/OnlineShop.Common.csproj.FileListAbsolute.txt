@@ -1,6 +1,5 @@
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Common\bin\Debug\OnlineShop.Common.dll
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Common\bin\Debug\OnlineShop.Common.pdb
-D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Common\obj\Debug\OnlineShop.Common.csproj.AssemblyReference.cache
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Common\obj\Debug\OnlineShop.Common.csproj.CoreCompileInputs.cache
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Common\obj\Debug\OnlineShop.Common.dll
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Common\obj\Debug\OnlineShop.Common.pdb

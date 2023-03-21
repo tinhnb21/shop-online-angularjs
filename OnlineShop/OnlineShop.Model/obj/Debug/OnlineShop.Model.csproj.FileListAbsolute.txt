@@ -5,7 +5,6 @@ D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Model\bin\Debug\EntityFramework.dl
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Model\bin\Debug\EntityFramework.SqlServer.dll
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Model\bin\Debug\EntityFramework.xml
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Model\bin\Debug\EntityFramework.SqlServer.xml
-D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Model\obj\Debug\OnlineShop.Model.csproj.AssemblyReference.cache
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Model\obj\Debug\OnlineShop.Model.csproj.CoreCompileInputs.cache
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Model\obj\Debug\OnlineShop.Model.csproj.CopyComplete
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Model\obj\Debug\OnlineShop.Model.dll

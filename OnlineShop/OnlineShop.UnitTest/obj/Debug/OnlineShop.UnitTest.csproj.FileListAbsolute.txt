@@ -115,3 +115,12 @@ D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.UnitTest\obj\Debug\OnlineS
 D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.UnitTest\obj\Debug\OnlineShop.UnitTest.csproj.CopyComplete
 D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.UnitTest\obj\Debug\OnlineShop.UnitTest.dll
 D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.UnitTest\obj\Debug\OnlineShop.UnitTest.pdb
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.UnitTest\bin\Debug\Microsoft.Owin.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.UnitTest\bin\Debug\Owin.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.UnitTest\bin\Debug\Autofac.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.UnitTest\bin\Debug\Autofac.Integration.Mvc.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.UnitTest\bin\Debug\Autofac.Integration.WebApi.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.UnitTest\bin\Debug\Microsoft.Owin.xml
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.UnitTest\bin\Debug\Autofac.xml
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.UnitTest\bin\Debug\Autofac.Integration.Mvc.xml
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.UnitTest\bin\Debug\Autofac.Integration.WebApi.xml
