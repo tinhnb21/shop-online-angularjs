@@ -172,3 +172,5 @@ D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Autofac.Integration.Mvc.xm
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Autofac.Integration.WebApi.xml
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.Owin.xml
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\AutoMapper.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\AutoMapper.xml
