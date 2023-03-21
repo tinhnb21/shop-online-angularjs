@@ -174,3 +174,15 @@ D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.Owin.xml
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\AutoMapper.dll
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\AutoMapper.xml
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.Owin.Security.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.Owin.Security.xml
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Web\bin\Microsoft.Owin.Security.OAuth.xml

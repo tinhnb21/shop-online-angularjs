@@ -32,3 +32,7 @@ D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Service\obj\Debug\OnlineSh
 D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Service\obj\Debug\OnlineShop.Service.csproj.CopyComplete
 D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Service\obj\Debug\OnlineShop.Service.dll
 D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Service\obj\Debug\OnlineShop.Service.pdb
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml

@@ -38,3 +38,9 @@ D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Data\obj\Debug\OnlineShop.
 D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Data\obj\Debug\OnlineShop.Data.csproj.CopyComplete
 D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Data\obj\Debug\OnlineShop.Data.dll
 D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Data\obj\Debug\OnlineShop.Data.pdb
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\obj\Debug\OnlineShop.Data.Migrations.IntergratedAspIdentity.resources
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Data\obj\Debug\OnlineShop.Data.Migrations.ChangeKey.resources

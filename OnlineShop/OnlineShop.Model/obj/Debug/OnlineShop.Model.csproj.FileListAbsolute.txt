@@ -21,3 +21,8 @@ D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Model\obj\Debug\OnlineShop
 D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Model\obj\Debug\OnlineShop.Model.csproj.CopyComplete
 D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Model\obj\Debug\OnlineShop.Model.dll
 D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Model\obj\Debug\OnlineShop.Model.pdb
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Model\obj\Debug\OnlineShop.Model.csproj.AssemblyReference.cache
