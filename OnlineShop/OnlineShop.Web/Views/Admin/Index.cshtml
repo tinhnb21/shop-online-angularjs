@@ -12,9 +12,11 @@
     <script src="~/Scripts/plugins/angular/angular.js"></script>
     <script src="~/Scripts/spa/app.js"></script>
 </head>
-<body ng-controller="myController">
+<body ng-controller="schoolController">
     <div>
         {{message}}
     </div>
+    <input type="number" ng-model="num"/> Value of textbox: {{num}}
+    <button ng-click="checkNumber()">Check number</button>
 </body>
 </html>
