@@ -26,3 +26,7 @@ D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Model\bin\Debug\Microsoft.AspNet.I
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Model\obj\Debug\OnlineShop.Model.csproj.AssemblyReference.cache
+D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml

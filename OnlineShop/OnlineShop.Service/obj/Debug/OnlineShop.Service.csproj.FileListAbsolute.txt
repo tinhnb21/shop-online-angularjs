@@ -36,3 +36,7 @@ D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Service\bin\Debug\Microsoft.AspNet
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 D:\Project_IT\AngularJs\OnlineShop\OnlineShop.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project\OnlineShop_AngularJs\OnlineShop\OnlineShop.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
