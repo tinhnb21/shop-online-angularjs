@@ -2,14 +2,15 @@
 
 var myApp = angular.module('myModule', []);
 myApp.controller('schoolController', schoolController);
-myApp.service('Validator', Validator);
+myApp.service('validatorService', Validator);
+myApp.directive('onlineShopDirective', onlineShopDirective);
 
-schoolController.$inject = ['$scope', 'Validator'];
+schoolController.$inject = ['$scope', 'validatorService'];
 
 //declare
-function schoolController($scope, Validator) {
+function schoolController($scope, validatorService) {
     $scope.checkNumber = function () {
-        $scope.message = Validator.checkNumber(2);
+        $scope.message = validatorService.checkNumber(2);
     }
 
     $scope.num = 1;
@@ -29,3 +30,17 @@ function Validator($window) {
         }
     }
 }
+
+//function onlineShopDirective() {
+//    return {
+//        template: "<h1>This is my first custom directive</h1>"
+//    }
+//}
+
+function onlineShopDirective() {
+    return {
+        templateUrl: "/Scripts/spa/onlineShopDirective.html"
+    }
+}
+
+
